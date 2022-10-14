@@ -1,1 +1,1 @@
-Programming is like building a multilingual puzzle
+outcome is a piece of art
