@@ -1,1 +1,1 @@
-prints the size of various types on the computer
+generates the assembly code
