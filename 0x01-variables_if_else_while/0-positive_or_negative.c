@@ -5,7 +5,7 @@
  * main-print if the number is positive,negative or 0
  * Return:0-no error,non zero value if error.
  */
-int main(void)
+int main()
 {
 int n;
 
@@ -24,4 +24,3 @@ else if (n == 0)
 										printf("%d is zero\n", n);
 return (0);
 }
-
